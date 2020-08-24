@@ -1,7 +1,7 @@
 # Actividad Evaluada 1
-Actividad Evaluada 1 - Parte práctica
-NOMBRE: [Escribe aquí tu nombre]
-CORREO: [Escribe aquí tu correo @miuandes.cl]
+Actividad Evaluada 1 - Parte práctica\
+**NOMBRE: [Escribe aquí tu nombre]**\
+**CORREO: [Escribe aquí tu correo @miuandes.cl]**
 
 En esta parte de la actividad deberás completar el código de dos programas, `main` y `child`, de modo que 
 el programa `main` pueda iniciar el programa `child` en un proceso hijo, y enviarle un flujo de dígitos 0-9 
